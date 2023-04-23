@@ -26,7 +26,7 @@ Follwing resources have been used in maintaining this project:
 ### Graphical User Interface
 <br>
 
-<img src="/Responsive Website Landing Page With Full Screen Draggable Image Slider - Html, Css & Javascript - File Setup/demo.png" />
+<img src="/Landing Page - Draggable Image Slider/demo.png" />
 
 <br><br>
 <!-- ................................................................................................................................. -->
