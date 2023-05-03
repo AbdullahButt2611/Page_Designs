@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&family=Satisfy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.hero-wrapper{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(-90deg, rgba(42, 245, 152, 0.7) 0%, rgba(0, 158, 253, 0.7) 100%);
+    color: #fff;
+}
+
+.hero-body{
+    text-align: center;
+}
+
+.hero-body h1{
+    font-size: 13rem;
+    font-family: 'Satisfy', cursive;
+}
+
+.hero-body p{
+    font-size: 1.2rem;
+    letter-spacing: 5px;
+    font-weight: 300;
+    margin-top: -40px;
+}
+
+.hero-wrapper video{
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .hero-wrapper{
+        height: 50vh;
+    }
+
+    .hero-body h1{
+        font-size: 7rem;
+    }
+
+    .hero-body p{
+        font-size: 1rem;
+        letter-spacing: 0;
+        margin-top: -20px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .hero-wrapper{
+        height: 40vh;
+    }
+
+    .hero-body h1{
+        font-size: 3rem;
+    }
+
+    .hero-body p{
+        font-size: 0.8rem;
+        margin-top: 0px;
+    }
+}
