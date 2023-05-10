@@ -1,9 +1,4 @@
-# Responsive Stock Photos Website Landing Page
+<h1 align = "center"> Responsive Stock Photos Website Landing Page </h1>
+<br><br>
 
-## **Video link: https://youtu.be/NeHqamXt7Pk**
-
-
-**Subscribe to my YouTube channel:  https://www.youtube.com/c/kirankumargonti**
-
-### **Snapshot**
 ![Demo-Pictures](./demo.jpg)
