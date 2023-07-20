@@ -13,9 +13,8 @@
 
 ### Graphical User Interface
 <br>
-<br>
 
-  <video src="https://github.com/AbdullahButt2611/Page_Designs/assets/81871162/7123c6e4-2268-44d2-bf8a-086666b34209"></video>
+  <video src="https://github.com/AbdullahButt2611/Page_Designs/assets/81871162/7123c6e4-2268-44d2-bf8a-086666b34209" />
 
 
 
